@@ -1,5 +1,4 @@
 # Pixelplus Mega Menu
-Create Mega Menu for WordPress Theme.
 
 **Lead Developers:**
 [namncn](https://github.com/namncn), [khanhtd1108](https://github.com/khanhtd1108)  
@@ -8,3 +7,4 @@ Create Mega Menu for WordPress Theme.
 
 ## Description ##
 
+Create Mega Menu for WordPress Theme.
