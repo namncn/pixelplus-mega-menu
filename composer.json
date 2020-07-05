@@ -15,6 +15,7 @@
         "wordpress-mega-menu"
     ],
     "require": {},
+    "version": "1.0.1",
     "autoload": {
         "files": [
             "theme-loader.php"
