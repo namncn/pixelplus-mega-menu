@@ -7,7 +7,11 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'PMM_VERSION', '1.0.2' );
+if ( defined( 'PMM_VERSION' ) ) {
+	return;
+}
+
+define( 'PMM_VERSION', '1.0.3' );
 define( 'PMM_PATH', get_template_directory() . '/pixelplus-mega-menu/' );
 define( 'PMM_URL', get_template_directory_uri() . '/pixelplus-mega-menu/' );
 
