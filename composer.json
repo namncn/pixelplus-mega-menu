@@ -1,8 +1,8 @@
 {
     "name": "namncn/pixelplus-mega-menu",
     "description": "A plugin for WordPress Theme",
-    "type": "wordpress-plugin",
-    "license": "GPLv2 or later",
+    "type": "library",
+    "license": "GPL-2.0+",
     "authors": [
         {
             "name": "Nam Truong",
