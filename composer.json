@@ -9,6 +9,12 @@
             "email": "namtruongncn@gmail.com"
         }
     ],
+    "homepage": "https://github.com/namncn/pixelplus-mega-menu",
+    "keywords": [
+        "mega-menu",
+        "wordpress-mega-menu"
+    ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "files": [
