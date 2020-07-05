@@ -9,7 +9,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       PixelPlus Mega Menu
- * Version:           1.0.0
+ * Version:           1.0.1
  * Plugin URI:        https://pixelplus.vn
  * Description:       Create Mega Menu for WordPress Theme.
  * Author:            Pixel+
