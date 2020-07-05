@@ -30,6 +30,8 @@ class Mega_Menu {
 
 			}
 		}
+
+		add_filter( 'primary_menu_args', array( $this, 'menu_args' ) );
 	}
 
 	public function enqueue_scripts() {
@@ -225,6 +227,12 @@ class Mega_Menu {
 		} else {
 			delete_post_meta( $menu_item_db_id, '_menu_data' );
 		}
+	}
+
+	public function menu_args( $args ) {
+		$args['walker'] = new Mega_Menu_Walker();
+
+		return $args;
 	}
 }
 
