@@ -6,12 +6,10 @@
  * @copyright    Copyright (C) 2020, PixelPlus - contact@pixelplus.vn
  * @link         https://pixelplus.vn
  * @since        1.0.0
- * @version      1.0.1
- * @author       Nam Truong
  *
  * @wordpress-plugin
  * Plugin Name:       PixelPlus Mega Menu
- * Version:           1.0.1
+ * Version:           1.0.2
  * Plugin URI:        https://pixelplus.vn
  * Description:       Create Mega Menu for WordPress Theme.
  * Author:            Pixel+
@@ -28,7 +26,7 @@ if ( defined( 'PMM_VERSION' ) ) {
 	return;
 }
 
-define( 'PMM_VERSION', '1.0.0' );
+define( 'PMM_VERSION', '1.0.2' );
 define( 'PMM_PATH', plugin_dir_path( __FILE__ ) );
 define( 'PMM_URL', plugin_dir_url( __FILE__ ) );
 
